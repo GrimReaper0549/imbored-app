@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">I\'m Bored</string>
+    <string name="activity1">Play Ludo with Friends</string>
+    <string name="description1">Get a ludo board and sit with friends for an evening of fun laughs and treachery and a lot of fun.</string>
+    <string name="activity2">Play Tennis with Friends</string>
+    <string name="description2">Get a ludo board and sit with friends for an evening of fun laughs and treachery and a lot of fun.</string>
+    <string name="activity3">Play Football with Friends</string>
+    <string name="description3">Get a ludo board and sit with friends for an evening of fun laughs and treachery and a lot of fun.</string>
+    <string name="activity4">Play Basketball with Friends</string>
+    <string name="description4">Get a ludo board and sit with friends for an evening of fun laughs and treachery and a lot of fun.</string>
+    <string name="activity5">Play Cricket with Friends</string>
+    <string name="description5">Get a ludo board and sit with friends for an evening of fun laughs and treachery and a lot of fun.</string>
+    <string name="activity6">Play Baseball with Friends</string>
+    <string name="description6">Get a ludo board and sit with friends for an evening of fun laughs and treachery and a lot of fun.</string>
+    <string name="skip">Skip</string>
+    <string name="add_activities">Add an activity</string>
+</resources>
