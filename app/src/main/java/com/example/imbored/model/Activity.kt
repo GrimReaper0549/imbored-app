@@ -6,5 +6,5 @@ import androidx.annotation.StringRes
 data class Activity(
     @StringRes val nameRes: Int,
     @StringRes val descRes: Int,
-    @DrawableRes val imageRes: Int
+    @DrawableRes val imageRes: Int?
 )

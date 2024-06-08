@@ -1,6 +1,5 @@
 package com.example.imbored.ui.theme
 
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Typography
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle
@@ -27,6 +26,12 @@ val Typography = Typography(
         fontFamily = Cabin,
         fontWeight = FontWeight.Normal,
         fontSize = 32.sp,
+        color = onPrimaryContainerLight,
+    ),
+    headlineLarge = TextStyle.Default.copy(
+        fontFamily = Cabin,
+        fontWeight = FontWeight.Normal,
+        fontSize = 56.sp,
         color = onPrimaryContainerLight,
     ),
     titleLarge = TextStyle.Default.copy(

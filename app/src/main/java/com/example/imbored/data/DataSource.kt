@@ -13,3 +13,5 @@ val activities= listOf(
     Activity(nameRes = R.string.activity6, descRes = R.string.description6, imageRes = R.drawable.activity1),
 
 )
+
+val welcomeActivity = Activity(nameRes = R.string.welcome_activity, descRes = R.string.welcome_description, imageRes = null)
